@@ -1,3 +1,3 @@
-# Deep Learning: Fundamentos y Aplicaciones
+# Deep Learning: Fundamentos, Plataformas y Aplicaciones
 ## Tabla de Contenido
-[Introducción](Introducción.ipynb)
+[Plataformas](Introducción.ipynb)
