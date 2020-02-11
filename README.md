@@ -1,3 +1,3 @@
-# m2-deep-learning
- Módulo 2 Deep Learning
+# Deep Learning: Fundamentos y Aplicaciones
+## Tabla de Contenido
 [Introducción](Introducción.ipynb)
