@@ -5,3 +5,5 @@
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
 ## Aplicaciones
 [Aplicaciones Deep Learning](Aplicaciones.ipynb)
+## Anexos
+[Anexos Deep Learning](Anexos.ipynb)
