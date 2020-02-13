@@ -1,6 +1,7 @@
 # Deep Learning: Fundamentos, Plataformas y Aplicaciones
 ## Fundamentos
 [Fundamentos de Deep Learning](Fundamentos.ipynb)
+
 [Perceptrón](Perceptrón.ipynb)
 
 ## Plataformas
