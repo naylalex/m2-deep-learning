@@ -4,7 +4,7 @@
 
 [Perceptrón](Perceptrón.ipynb)
 
-[Redes Neuronales](RedesNeurolanes.ipynb)
+[Redes Neuronales](RedesNeuronales.ipynb)
 
 ## Plataformas
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
