@@ -3,6 +3,7 @@
 [Fundamentos de Deep Learning](Fundamentos.ipynb)
 
 [Perceptrón](Perceptrón.ipynb)
+[Redes Neuronales](RedesNeurolanes.ipynb)
 
 ## Plataformas
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
