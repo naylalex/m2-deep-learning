@@ -3,6 +3,7 @@
 [Fundamentos de Deep Learning](Fundamentos.ipynb)
 ## Plataformas
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
+[Perceptrón](Perceptrón.ipynb)
 
 [TensorFlow 1.0](TensorFlow1.ipynb)
 
