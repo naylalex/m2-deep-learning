@@ -18,7 +18,6 @@
 [Regresión Lineal en TensorFlow 2.0 con Keras](TensorFlow2Regresión.ipynb)
 
 [Migración TensorFlow 1.0 a TensorFlow 2.0](Migración%20TF1%20a%20TF2.ipynb)
-## Aplicaciones
-[Aplicaciones Deep Learning](Aplicaciones.ipynb)
+
 ## Anexos
 [Anexos Deep Learning](Anexos.ipynb)
