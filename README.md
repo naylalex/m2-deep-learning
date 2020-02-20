@@ -19,5 +19,7 @@
 
 [Migración TensorFlow 1.0 a TensorFlow 2.0](Migración%20TF1%20a%20TF2.ipynb)
 
+[Despliegues de modelos de deep learning con TensorFlow TFX](TensorFlowTFX.iypnb)
+
 ## Anexos
 [Anexos Deep Learning](Anexos.ipynb)
