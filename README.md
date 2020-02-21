@@ -21,6 +21,8 @@
 
 [Manejo de imágenes con TensorFlow core](TensorFlowImages.ipynb)
 
+[TensorFlow Serving con Docker](DockerTensorFlowServing.ipynb)
+
 [Despliegue de modelos de deep learning con TensorFlow Extended (TFX)](TensorFlowTFX.iypnb)
 
 ## Anexos
