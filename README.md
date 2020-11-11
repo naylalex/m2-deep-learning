@@ -1,10 +1,17 @@
 # Deep Learning: Fundamentos, Plataformas y Aplicaciones
+## Full stack Data Science
+* Git
+* Contenedores
+* Nube
 ## Fundamentos
 [Fundamentos de Deep Learning](Fundamentos.ipynb)
 
 [Perceptrón](Perceptrón.ipynb)
 
 [Redes Neuronales](RedesNeuronales.ipynb)
+## Modelo de proceso FSDS
+* Ciclo interno
+* Ciclo externo
 
 ## Plataformas
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
