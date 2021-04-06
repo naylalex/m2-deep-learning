@@ -32,5 +32,9 @@
 
 [Despliegue de modelos de deep learning con TensorFlow Extended (TFX)](TensorFlowTFX.iypnb)
 
+## Prácticas
+[Introducción a redes neuronales](02_Intro_NN_HW.ipynb)
+[Regresión lineal con gradient descent](01_Grad_descent_linear_reg_HW.ipynb)
+
 ## Anexos
 [Anexos Deep Learning](Anexos.ipynb)
