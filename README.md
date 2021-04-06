@@ -1,8 +1,5 @@
 # Deep Learning: Fundamentos, Plataformas y Aplicaciones
-## Full stack Data Science
-* Git
-* Contenedores
-* Nube
+
 ## Fundamentos
 [Fundamentos de Deep Learning](Fundamentos.ipynb)
 
