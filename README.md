@@ -6,9 +6,6 @@
 [Perceptrón](Perceptrón.ipynb)
 
 [Redes Neuronales](RedesNeuronales.ipynb)
-## Modelo de proceso FSDS
-* Ciclo interno
-* Ciclo externo
 
 ## Plataformas
 [Introducción a las plataformas de Deep Learning](Introducción.ipynb)
