@@ -28,6 +28,7 @@
 
 ## Prácticas
 [Introducción a redes neuronales](02_Intro_NN_HW.ipynb)
+
 [Regresión lineal con gradient descent](01_Grad_descent_linear_reg_HW.ipynb)
 
 ## Anexos
