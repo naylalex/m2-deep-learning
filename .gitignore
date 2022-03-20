@@ -19,3 +19,4 @@ flowers.tfcache.data-00000-of-00001
 flowers.tfcache.index
 .ipynb_checkpoints/DockerTensorFlowServing-checkpoint.ipynb
 .vscode
+datasets
