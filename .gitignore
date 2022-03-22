@@ -20,4 +20,4 @@ flowers.tfcache.index
 .ipynb_checkpoints/DockerTensorFlowServing-checkpoint.ipynb
 .venv
 .vscode
-datasets
+datasets/
