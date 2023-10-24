@@ -16,12 +16,12 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
 # RUN conda install -y python=3.6 \
 #     && pip install --no-cache-dir pipx \
 #     && pipx reinstall-all
-# RUN conda install -n base ipykernel --update-deps --force-reinstall
-# RUN conda install -n base tensorflow
-# RUN conda install -n base matplotlib
-# RUN conda install -n base numpy
-# RUN conda install -n base pandas
-# RUN conda install -n base scikit-learn
+# RUN conda install -n class ipykernel
+# RUN conda install -n class tensorflow
+# RUN conda install -n class matplotlib
+# RUN conda install -n class numpy
+# RUN conda install -n class pandas
+# RUN conda install -n class scikit-learn
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 #     && apt-get -y install --no-install-recommends <your-package-list-here>
