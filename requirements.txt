@@ -1,4 +1,5 @@
 tensorflow
+tfds-nightly
 pandas
 matplotlib
 scikit-learn
